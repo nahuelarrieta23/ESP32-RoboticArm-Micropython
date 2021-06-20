@@ -1,6 +1,8 @@
 # ESP32-RoboticArm-Micropython
 Robotic arm 3D printed based on ESP32 and using MG995 servo. The 3D model used was designed by Ashing https://www.thingiverse.com/thing:1215831, and printed by me using a Ender 3 Pro with PLA. 
 
+# Arquitecture
+
 # Controlling
 
 - Manual mode: Robotic arm controled with a jostick.
